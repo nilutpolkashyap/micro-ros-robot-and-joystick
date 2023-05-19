@@ -24,11 +24,6 @@
 <br><br>
 </div>
 
-<div align="center">
-<img  alt="Project Demo" width="70%" src="images/robot_demo.gif" />
-<br />
-</div>
-
 ## Differential Drive Robot
 <div align="center">
 <img  alt="Differential Drive Robot" width="50%" src="images/esp32_hardware.jpg" />
